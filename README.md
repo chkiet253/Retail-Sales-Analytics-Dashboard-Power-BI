@@ -4,8 +4,6 @@
 
 This project presents an interactive business intelligence dashboard built with **Power BI** to analyze retail sales performance, customer behavior, product trends, and pricing strategies using the H&M Fashion Retail dataset.
 
-The objective is to transform a large-scale transactional dataset into meaningful business insights through data modeling, visualization, and interactive reporting.
-
 ---
 
 ## Objectives
